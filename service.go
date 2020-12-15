@@ -1,4 +1,4 @@
-package otp_svc
+package sms_svc
 
 import "context"
 
