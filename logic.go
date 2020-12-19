@@ -1,4 +1,4 @@
-package sms_svc
+package smssvc
 
 import (
 	"context"

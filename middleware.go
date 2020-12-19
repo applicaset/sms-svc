@@ -1,3 +1,3 @@
-package sms_svc
+package smssvc
 
 type Middleware func(Service) Service
